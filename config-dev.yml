@@ -1,5 +1,8 @@
 server:
-  port: 8001
+  portss: 8001
+  
+config:
+  info: 800199999
 
 spring:
   application:
