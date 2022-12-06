@@ -1,6 +1,3 @@
-server:
-  port: 8001
-  
 config:
   info: 250758056202212061913
 
