@@ -2,7 +2,7 @@ server:
   portss: 8001
   
 config:
-  info: 250758056888
+  info: 25075805620221206
 
 spring:
   application:
